@@ -104,9 +104,10 @@ Currently, I work as a **Consultant Full Stack Developer at CGF**, where I help 
 
 <div align="center">
 
-![Musaddiq's GitHub stats](https://github-readme-stats.vercel.app/api?username=musaddiq-dev&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=musaddiq-dev&theme=github_dark)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=musaddiq-dev&layout=compact&theme=github_dark&hide_border=true)
+![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=musaddiq-dev&theme=github_dark)
+![Most committed language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=musaddiq-dev&theme=github_dark)
 
 </div>
 
