@@ -4,7 +4,7 @@
 
 ### Python-first Full Stack Developer building scalable SaaS, fintech, open-network, and AI tooling systems.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-musaddiq.dev-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://new-portfolio-musaddiq.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-musaddiq.in-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://www.musaddiq.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-musaddiq--mohammed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/musaddiq-mohammed)
 [![GitHub](https://img.shields.io/badge/GitHub-musaddiq--dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/musaddiq-dev)
 
@@ -124,7 +124,7 @@ Currently, I work as a **Consultant Full Stack Developer at CGF**, where I help 
 
 ## Connect
 
-- Portfolio: [new-portfolio-musaddiq.vercel.app](https://new-portfolio-musaddiq.vercel.app/)
+- Portfolio: [www.musaddiq.in](https://www.musaddiq.in)
 - LinkedIn: [linkedin.com/in/musaddiq-mohammed](https://linkedin.com/in/musaddiq-mohammed)
 - GitHub: [github.com/musaddiq-dev](https://github.com/musaddiq-dev)
 
