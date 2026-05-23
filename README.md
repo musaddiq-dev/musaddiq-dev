@@ -68,9 +68,9 @@ Currently, I work as a **Consultant Full Stack Developer at CGF**, where I help 
 
 ### AI and developer tooling
 
-- **AWS MCP Server** — Model Context Protocol server that lets AI assistants safely interact with AWS through AWS CLI, with destructive-operation guardrails and structured logging.
-- **PostgreSQL MCP Server** — AI-friendly PostgreSQL exploration with schema discovery, read queries, EXPLAIN plans, relationship discovery, index analysis, and safe inspection tools.
-- **MySQL MCP Server** — MCP server for MySQL schema inspection, query execution, DDL extraction, database summaries, and performance analysis.
+- **[AWS CLI MCP Server](https://github.com/musaddiq-dev/aws-cli-mcp-server)** — Published Python/FastMCP server for safe AWS CLI operations, available as `uvx mdev-aws-mcp-server` and listed in the official MCP Registry (`io.github.musaddiq-dev/aws-cli-mcp-server`). Latest release: `v0.1.2`.
+- **[PostgreSQL MCP Server](https://github.com/musaddiq-dev/postgresql-mcp-server)** — Published PostgreSQL MCP server with read-only transactions, schema discovery, EXPLAIN plans, relationships, index analysis, and safe inspection tools. Available as `uvx mdev-postgresql-mcp-server` and listed in the official MCP Registry (`io.github.musaddiq-dev/postgresql-mcp-server`). Latest release: `v0.1.2`.
+- **[MySQL MCP Server](https://github.com/musaddiq-dev/mysql-mcp-server)** — Published MySQL MCP server for schema inspection, bounded SELECT queries, DDL extraction, database summaries, EXPLAIN analysis, and guarded write/DDL tools. Available as `uvx mdev-mysql-mcp-server` and listed in the official MCP Registry (`io.github.musaddiq-dev/mysql-mcp-server`). Latest release: `v0.1.2`.
 - **Samhita AI Backend** — FastAPI document intelligence backend with PostgreSQL, Redis, Qdrant, Celery, LiteLLM, streaming SSE, async jobs, conversations, and optional OCR.
 
 ### Open networks, fintech, and SaaS
@@ -95,7 +95,7 @@ Currently, I work as a **Consultant Full Stack Developer at CGF**, where I help 
 - Designed Beckn Protocol-based financial network infrastructure with gateway and registry components.
 - Developed fintech modules for Aadhaar/PAN KYC, borrower onboarding, income verification, pre-credit scoring, credit guarantee, and loan workflows.
 - Built multi-tenant SaaS platforms with RBAC, delegated access, subscription billing, compliance workflows, and modular onboarding.
-- Created MCP servers for AWS, MySQL, and PostgreSQL to make cloud and database workflows safer for AI-assisted development.
+- Published MCP servers for AWS, MySQL, and PostgreSQL on GitHub, PyPI, and the official MCP Registry to make cloud and database workflows safer for AI-assisted development.
 - Delivered full stack systems across fintech, CSR, HRMS, e-commerce, LMS, AI document intelligence, and developer tooling.
 
 ---
